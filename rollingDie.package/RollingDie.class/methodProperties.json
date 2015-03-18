@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"faces:" : "jigyasa 3/18/2015 22:50" },
+	"instance" : {
+		"dieValue:" : "jigyasa 3/18/2015 23:16",
+		"drawDotOn:at:" : "jigyasa 3/18/2015 23:15",
+		"drawOn:" : "jigyasa 3/18/2015 23:14",
+		"face1" : "jigyasa 3/18/2015 23:12",
+		"face2" : "jigyasa 3/18/2015 23:12",
+		"face3" : "jigyasa 3/18/2015 23:12",
+		"face4" : "jigyasa 3/18/2015 23:12",
+		"face5" : "jigyasa 3/18/2015 23:13",
+		"face6" : "jigyasa 3/18/2015 23:13",
+		"face7" : "jigyasa 3/18/2015 23:13",
+		"face8" : "jigyasa 3/18/2015 23:13",
+		"face9" : "jigyasa 3/18/2015 23:13",
+		"faces:" : "jigyasa 3/18/2015 23:11",
+		"handlesMouseDown:" : "jigyasa 3/18/2015 23:17",
+		"initialize" : "jigyasa 3/18/2015 23:18",
+		"mouseDown:" : "jigyasa 3/18/2015 23:17",
+		"step" : "jigyasa 3/18/2015 23:16",
+		"stepTime" : "jigyasa 3/18/2015 23:17" } }

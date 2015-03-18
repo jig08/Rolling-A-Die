@@ -1,0 +1,16 @@
+{
+	"category" : "rollingDie",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dieValue",
+		"faces",
+		"isStopped" ],
+	"name" : "RollingDie",
+	"pools" : [
+		 ],
+	"super" : "BorderedMorph",
+	"type" : "normal" }
